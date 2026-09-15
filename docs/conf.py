@@ -32,6 +32,7 @@ extensions = [
     "sphinx.ext.githubpages",
     "sphinx.ext.napoleon",
     "sphinx_copybutton",
+    'sphinx_lfs_content'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
